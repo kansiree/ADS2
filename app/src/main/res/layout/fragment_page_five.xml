@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ContentPage.PageFive">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/text_5"
+        android:inputType="textMultiLine"
+        android:textSize="25dp"
+        android:textColor="#000"
+        android:text="5  How to Get V-Bucks
+Fortnite: Battle Royale just received a major patch that will surely draw in more players and increase the longevity of the game. While the patch did introduce a host of changes to the gameplay, it also introduced a microtransaction based store that will allow players to obtain new skins for their character, glider and harvesting tool. To get these new items, players will have to spend what are called V-bucks. V-bucks are Fortnite: Battle Royale’s new currency and you will use these to get your new cosmetics. There are a couple different ways to get these but by far the easiest way will be to just outright buy them. For $9.99 you’ll get 1000 V-bucks, which you’ll quickly find is not even enough for the Ghoul or Skull Trooper outfit. Here’s the complete list of what it’ll cost for V-bucks. We’re not sure if the bonus bucks will stick around or if those are just a launch special.
+1000 V-bucks: $9.99
+2500 (+300) V-bucks: $24.99
+6000 (+1500) V-bucks: $59.99
+10000 (+3500) V-bucks: $99.99
+There are alternative ways to earning V-bucks and one of those ways it to complete daily quests in PvE Fortnite. If you’re strictly a Battle Royale player, it appears you are out of luck as it turns out that Daily Challenges are not quests. There is not currently a way to earn them in-game through winning or anything like that.
+It does seem like a good way to earn V-bucks through the Battle Royale mode would be to give them as a reward for winning or placing in the top 3 but that’s not the way the cookie has crumbled this time around. It’s possible Epic Games could implement something like that in the future so stay tuned.
+It looks like the two Halloween-themed outfits, the Renegade outfit, the glider and the new harvesting tool skin is all we have to see for right now. The daily items will rotate so we’ll see what’s there the next few days. The Season Shop isn’t open yet so we’ll definitely be receiving more ways to spend V-bucks in there. We’re hoping to see some cheaper skins in the future since not everyone wants to drop $20 on a game to get a new skin.
+Keep in mind that all of the stuff sold in the store is purely cosmetic and will have no impact on the game itself. You’ll just look cooler than everyone else and that’s what’s truly important, isn’t it?
+" />
+
+</FrameLayout>

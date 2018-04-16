@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ContentPage.PageOne">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/text_one"
+        android:inputType="textMultiLine"
+        android:textSize="25dp"
+        android:textColor="#000"
+        android:text="1 Gameplay
+The backdrop consists of an apocalyptic contemporary time zone created as a result of a deadly storm wiping out 98% of the population on Earth.
+The Earth region was taken over by Zombie look-alikes hunting down any leftover survivors. The gameplay according to its publisher and developer Epic Games is a stellar fusion of the famous Minecraft and the reverberant Left 4 Dead.
+The storyline is based on sandbox survival dynamics where the contemporary Earth is eradicated of almost the entire population due to a worldwide storm that dumps husks with only 2% survivors remaining who are at risk of becoming frail preys to the present occupants of the region, Zombie look-alikes.
+The survivors were able to create storm shields set up as bases throughout the place that helped them stay protected from hovering storm clouds and husk attacks. The player is technically the chief of one of these survivor bases and is responsible for going out into the open to search for survivors, resources like wood, brick, and metal, and other support groups to augment their base and devise a solution to return Earth to its normal state.
+The title is based on map indicators randomly created through the gameplay portending various quests and missions that the players have to indulge in for assimilating and stockpiling resources.
+The game allows up to four players that form a coalition to protect survivors and fight the storm by creating parapets and defensive structures in the game world. The quests also include building weapons like rifles, rocket launchers and grenades and big traps to take on the zombie-like creatures that are a hindrance to achieving prime targets.
+Players use the tasks in different quests and missions to gather reward points that can be used to build up their character, improve the weaponry and trap accessories including boosting their support teams to move up higher echelons to face even grittier quests.
+Fortnite includes the micro-transactions feature to enable players to buy in-game coinage that can be used for upgrading the hero character attributes, artillery, flanks, and snares.
+" />
+
+</FrameLayout>

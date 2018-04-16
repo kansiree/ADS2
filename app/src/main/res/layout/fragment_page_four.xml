@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ContentPage.PageFour">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/text_4"
+        android:inputType="textMultiLine"
+        android:textSize="25dp"
+        android:textColor="#000"
+        android:text="4 How to play
+The players begin waiting in a lobby. In the lobby, the world has the same game mechanics as during the match, except that you cannot destroy the terrain and buildings nor harm players. You may scavenge bandages, traps, weapons, and resources but you won't be able to use the traps or aid. However, if you obtain resources in the pre-game lobby, you are able to build objects with that resource, but you are still unable to do damage to the buildings or remove them after they are placed.
+For new players, this can be an opportunity to experiment with guns. After a short amount of time, the bus starts and players are teleported in it, ready to jump out. To jump, press the jump button (default: space) and then jump button again to deploy the glider. Note that you should not open the glider right away but instead take advantage of the greater speed you have while it is not open. Find the best location for your avatar to land and steer the glider there. Start collecting resources, plan and prepare for battle by observing the position of the Storm. Supply drops can also drop randomly around the map, containing rare loot.
+Players should mind the Bushes, either they can hide in them themselves or watch out for snipers.
+ " />
+
+</FrameLayout>

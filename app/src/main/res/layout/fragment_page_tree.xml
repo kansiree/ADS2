@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ContentPage.PageTree">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/text_3"
+        android:inputType="textMultiLine"
+        android:textSize="25dp"
+        android:textColor="#000"
+        android:text="3 Battle Royal
+The Battle Royal mode has almost similar storyline attributes and gameplay dynamics stereotypical of most battle royal games especially PayerUnknown’s Battlegrounds.
+The mode allows up to 100 players to either form a 4-person coalition or use a single player option. In this multiplayer title, the players battle it out hunting down other players and protecting themselves from player-attacks to become the last person or squad standing.
+Initially, the players start by performing tasks with no weapons or resources to support them but a pickaxe and a parachute.
+The game world offers a cornucopia of quests and other amazing missions that the players can enjoy and use to gather resources to strengthen their base camp and support group.
+The loot contains different items that can be used to design and construct protective structures in ways similar to the techniques in ‘Save the World’ mode. Gradually, as the story moves on, the storm clouds cover the skies forming a dense canopy leading to the reduction of ‘safe places’ on the map.
+People who are taken down outside the safe place have to face damage leading to death if they stay too long outside the marked circle.
+Resources, items, and weapons based on rarity scale are randomly dropped from above during the play, and players can efficiently collect these valuable airdrops to improve their character and expand their base by crafting floors, footboards, and ramps to get to them.
+Cosmetic accessories can be purchased along with other beneficial upgrades using the in-game currency that is available through spending real money.
+" />
+
+</FrameLayout>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ContentPage.PageTwo">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/text_2"
+        android:inputType="textMultiLine"
+        android:textSize="25dp"
+        android:textColor="#000"
+        android:text="2 Weapons
+There is an abundance of new guns and artillery in Fortnite Battle Royale providing a range of options to players for executing tasks inquests. The Battle Royal mode of the title has voguish and brazen arms and weaponry like shotguns, pistols, sniper rifles, rocket launchers, grenades and assault rifles. Whether you want to install snares in your shield or use an M16 to take down the enemy, there is a new diverse range for you to select.
+Th from weapons for Fortnite typically have a grading based on the rarity scale highlighted below.
+1.	Grey: Common
+2.	Green: Uncommon
+3.	Blue: Rare
+4.	Purple: Epic
+5.	Orange: Legendary
+As a player, you can quickly look for the kind of weapons that are a best-fit for your mission since these built-up locations including small areas like buildings and places with hidden loot.
+The coolest and efficient of weaponry in Fortnite Battle Royale is the snipers and scoped assault rifles, as they have long range and can target enemies at a distance. These are great for combats under challenging quests, but you can make use of short-range shotguns to help you in a specific situation because they offer excellent coverage.
+Below are some of the weapons available to players along with their DPS or damage per second rating, magazine size, damage per shot, and rarity level.
+M16
+DPS: 176
+Damage: 32
+Magazine Size: 30
+Rarity Level: Common
+M16
+DPS: 181
+Damage: 32
+Magazine Size: 30
+Rarity Level: Uncommon
+Revolver
+DPS: 48
+Damage: 54
+Magazine Size: 6
+Rarity Level: Common
+Semi-Auto Handgun
+DPS: 169
+Damage: 25
+Magazine Size: 16
+Rarity Level: Rare
+Pump Shotgun
+DPS: 63
+Damage: 90
+Magazine Size: 5
+Rarity Level: Common
+Grenade Launcher
+DPS: 100
+Damage: 100
+Magazine Size: 6
+Rarity Level: Rare
+Other weapons include rocket launchers, sniper rifles, snares, base traps, and SMGs that you can assimilate on the go.
+" />
+
+</FrameLayout>

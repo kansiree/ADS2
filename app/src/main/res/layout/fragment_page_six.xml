@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ContentPage.PageSix">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/text_6"
+        android:inputType="textMultiLine"
+        android:textSize="25dp"
+        android:textColor="#000"
+        android:text="6  HOW TO CHANGE YOUR CHARACTER
+Fortnite’s Battle Royale mode has recently released as a free-to-play standalone package. Despite the game’s popularity, like the base game and similar titles such as PUBG, it is important to remember that it is still in Early Access. As a result, the mode is very much a bare-bones beta at present, and although a new patch has added a host of improvements and the ability to play in squads, there is a very limited amount of content available.
+Character customization is, unfortunately, one of the aspects of the game that is still not yet complete. Right now, there is no way to change or customize your character. You are stuck with whatever randomized avatar the game assigns to you once you have booted it up. You won’t be limited to the same look each time, but – there are several different character designs, including a female avatar – it is certainly random and cannot be deliberately selected.
+Update: Your avatar’s appearance can now be changed in Fortnite Battle Royale. However, to do so will require you to purchase V-Bucks from the in-game store. With the addition of the Locker, the game now has customization options for characters to alter their outfit. Outfits typically cost around 2000 V-Bucks, which is the equivalent of $20. The Battle Pass update is another way in which you can customize your character. This is a progression system that players can purchase (currently 950 V-Bucks at the time of writing) in which they will earn cosmetic rewards for completing various challenges. Epic Games claims the content takes around 150 hours to unlock. Of course, you can splash out additional V-Bucks on rewards if you’d prefer.
+It shouldn’t be too long until character choices are added to the game. Epic Games recently tweeted that options would soon become available in an upcoming patch.
+Fortnite is available on PS4, Xbox One, and PC. For more information on the game, check our wiki page.
+" />
+
+</FrameLayout>
